@@ -1,0 +1,7 @@
+CLAUDE.local.md
+.env
+.env.local
+node_modules/
+.next/
+prisma/dev.db
+logs.txt
