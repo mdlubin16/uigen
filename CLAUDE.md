@@ -73,3 +73,4 @@ The app's own chrome (not the generated previews) uses shadcn/ui primitives in [
 ## Testing notes
 
 Tests use Vitest + Testing Library with jsdom ([vitest.config.mts](vitest.config.mts)); `vite-tsconfig-paths` resolves the `@/` alias. Tests live in `__tests__` directories next to the code they cover.
+/install-github-app
